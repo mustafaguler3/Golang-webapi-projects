@@ -4,23 +4,20 @@
         "Username": "mustafaguler",
         "FirstName": "Mustafa",
         "LastName": "Güler",
-        "Interest": "C#, GO",
-        "Profile": "http://www.dijibil.com/cihanozhan"
+        "Interest": "C#, GO"
     },
     {
         "ID": 2,
         "Username": "muhammetguler",
         "FirstName": "Muhammet",
         "LastName": "Güler",
-        "Interest": "C, C++, Java, Linux, Android",
-        "Profile": "http://www.dijibil.com/kerimfirat"
+        "Interest": "C, C++, Java, Linux, Android"
     },
     {
         "ID": 3,
         "Username": "HasanÖzcan",
         "FirstName": "Hasan",
         "LastName": "Özcan",
-        "Interest": "Web Tasarım, SEO, SEM",
-        "Profile": "http://www.dijibil.com/barisozhan"
+        "Interest": "Web Tasarım, SEO, SEM"
     }
 ]
